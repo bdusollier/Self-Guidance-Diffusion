@@ -19,9 +19,7 @@ L’autoguidage repose sur l’idée suivante :
 
 Formule clé utilisée dans le notebook :
 
-\[
-\text{Score}_{guidé} = \text{Score}_{expert} + w \cdot (\text{Score}_{expert} - \text{Score}_{amateur})
-\]
+$$\text{Score}_{guided} = \text{Score}_{expert} + w \cdot (\text{Score}_{expert} - \text{Score}_{amateur})$$
 
 où `w` contrôle la force du guidage.
 
