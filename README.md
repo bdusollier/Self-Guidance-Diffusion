@@ -1,6 +1,6 @@
 # Autoguidance (Self-Guidance) for Diffusion Models
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TON_PSEUDO/TON_REPO/blob/main/autoguidance_better.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bdusollier/Self-Guidance-Diffusion/blob/main/autoguidance_notebook.ipynb)
 
 Ce repository contient un **notebook pédagogique** explorant la méthode de **Self-Guidance (Autoguidance)** pour les modèles de diffusion, inspirée des travaux récents de **NVIDIA (2024)**.
 
